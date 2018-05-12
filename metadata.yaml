@@ -1,0 +1,28 @@
+_repo: De-schippersjongenLeiden-in-strijd-en-nood_43953
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43953-h/images/backcover.jpg
+creator:
+  author:
+    agent_name: Louwerse, Pieter
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '3977'
+    url: http://www.gutenberg.org/2009/agents/3977
+    wikipedia: http://nl.wikipedia.org/wiki/Pieter_Louwerse
+description: ''
+gutenberg_issued: '2013-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43953'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leiden (Netherlands) -- History -- Siege, 1573-1574 -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Historical fiction'
+title: De schippersjongen, of Leiden in strijd en nood
+url: http://www.gutenberg.org/ebooks/43953
